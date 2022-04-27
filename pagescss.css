@@ -1,0 +1,19 @@
+.textred{
+ color: red;
+    font-weight: 1000;
+    font-style: italic;
+    display: block;
+    margin: 30px;
+    text-align: center;
+    
+}
+.content{
+    margin: 0px 100px 100px 100px;
+    width: 200px;
+    height: 400px
+}
+.main{
+    background-color: antiquewhite;
+    text-align: center;
+    color: #6f3aff;
+} 

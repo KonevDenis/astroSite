@@ -1,0 +1,19 @@
+.title{
+    text-align: center;
+}
+.table{
+    border: 1px solid #ff0000;
+    width: 100%;
+    border-collapse: collapse;
+    padding: 1px solid;
+    
+}
+.table th {
+    text-align: left;
+    border: 2px solid;
+    padding: 10px
+}
+.table td {
+    border: 1px solid;
+    padding: 1px solid; 
+}

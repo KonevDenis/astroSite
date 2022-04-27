@@ -1,0 +1,32 @@
+.html{
+    background-color: black;
+}
+.text1{
+    color: aliceblue;
+    font-family: monospace;
+    
+}
+.day{
+    letter-spacing: 10px;
+    text-align: center
+}
+.img1{
+    width: 200px;
+    height: auto;
+}
+.img2{
+        width: 205px;
+    height: auto;
+}
+.img3{
+    width: 200px;
+    height: auto;
+}
+.img4{
+    width: 200px;
+    height: auto;
+}
+.foot{
+    background: url(img10/tree.jpeg) no-repeat center; 
+    
+}
